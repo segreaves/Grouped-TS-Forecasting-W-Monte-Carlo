@@ -1,4 +1,4 @@
-# Grouped Time Series Forecasting with Monte Carlo Simulation
+# Grouped Time Series Forecast Confidence Intervals With Monte Carlo Simulation
 Using Monte Carlo simulation to create confidence intervals for grouped time series forecasts.
 
 ![image](https://github.com/user-attachments/assets/98d3883f-1b37-40f1-a190-d8c37cb84f52)
